@@ -1,0 +1,32 @@
+{
+  "name": "azure-hackathon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.2.11",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GordonSmith/azure-hackathon.git"
+  },
+  "keywords": [
+    "Azure",
+    "Hackathon"
+  ],
+  "author": "Gordon Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GordonSmith/azure-hackathon/issues"
+  },
+  "homepage": "https://github.com/GordonSmith/azure-hackathon#readme"
+}
